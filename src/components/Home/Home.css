@@ -1,0 +1,33 @@
+.slider{
+    text-align: center;
+    width: auto;
+    height: auto;
+    overflow: hidden;
+ 
+
+}
+.con{
+    float: left;
+    margin-left: 10%;
+
+
+}
+
+.img img {
+    
+      margin-top: 120px;
+
+       width: 80%;
+       margin-bottom: 0;
+       border-radius: 40px;
+      
+     
+    
+
+}
+.details{
+    margin-top: 120px;
+    text-align: center;
+
+  
+}

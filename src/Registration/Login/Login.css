@@ -1,0 +1,48 @@
+.login-Form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+.login-label {
+  font-size: 20px;
+  margin-top: 70px;
+}
+
+.login-input {
+  padding: 5px;
+  border-radius: 5px;
+  border: none;
+  margin-bottom: 5px;
+  width: 300px;
+}
+
+.login-button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 20px;
+  cursor: pointer;
+  margin-left: 5px;
+  transition: all 0.2s ease-in-out;
+  
+}
+.register-button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 20px;
+  cursor: pointer;
+  margin-left: 5px;
+  transition: all 0.2s ease-in-out;
+  
+}
+
+.login-button:hover {
+  background-color: #0062cc;
+}
