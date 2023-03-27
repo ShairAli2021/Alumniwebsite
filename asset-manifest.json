@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Alumniwebsite/static/css/main.e7c56db8.chunk.css",
+    "main.js": "/Alumniwebsite/static/js/main.8912221c.chunk.js",
+    "main.js.map": "/Alumniwebsite/static/js/main.8912221c.chunk.js.map",
+    "runtime-main.js": "/Alumniwebsite/static/js/runtime-main.32af00b4.js",
+    "runtime-main.js.map": "/Alumniwebsite/static/js/runtime-main.32af00b4.js.map",
+    "static/css/2.9180a4a4.chunk.css": "/Alumniwebsite/static/css/2.9180a4a4.chunk.css",
+    "static/js/2.24235e95.chunk.js": "/Alumniwebsite/static/js/2.24235e95.chunk.js",
+    "static/js/2.24235e95.chunk.js.map": "/Alumniwebsite/static/js/2.24235e95.chunk.js.map",
+    "index.html": "/Alumniwebsite/index.html",
+    "static/css/2.9180a4a4.chunk.css.map": "/Alumniwebsite/static/css/2.9180a4a4.chunk.css.map",
+    "static/css/main.e7c56db8.chunk.css.map": "/Alumniwebsite/static/css/main.e7c56db8.chunk.css.map",
+    "static/js/2.24235e95.chunk.js.LICENSE.txt": "/Alumniwebsite/static/js/2.24235e95.chunk.js.LICENSE.txt",
+    "static/media/about-us.7cee1185.png": "/Alumniwebsite/static/media/about-us.7cee1185.png",
+    "static/media/graphics-design.08c25c6b.png": "/Alumniwebsite/static/media/graphics-design.08c25c6b.png",
+    "static/media/hero-img1.12a6ce0c.png": "/Alumniwebsite/static/media/hero-img1.12a6ce0c.png",
+    "static/media/kids-learning.fcd258b6.png": "/Alumniwebsite/static/media/kids-learning.fcd258b6.png",
+    "static/media/remixicon.css": "/Alumniwebsite/static/media/remixicon.f2616f59.ttf",
+    "static/media/seo.b323da63.png": "/Alumniwebsite/static/media/seo.b323da63.png",
+    "static/media/slick-theme.css": "/Alumniwebsite/static/media/slick.c94f7671.ttf",
+    "static/media/testimonial01.ef527bf3.png": "/Alumniwebsite/static/media/testimonial01.ef527bf3.png",
+    "static/media/ui-ux.0366b465.png": "/Alumniwebsite/static/media/ui-ux.0366b465.png",
+    "static/media/web-design.9071c3ef.png": "/Alumniwebsite/static/media/web-design.9071c3ef.png",
+    "static/media/web-development.91ce5338.png": "/Alumniwebsite/static/media/web-development.91ce5338.png",
+    "static/media/why-choose-us.5ec7e3b2.png": "/Alumniwebsite/static/media/why-choose-us.5ec7e3b2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32af00b4.js",
+    "static/css/2.9180a4a4.chunk.css",
+    "static/js/2.24235e95.chunk.js",
+    "static/css/main.e7c56db8.chunk.css",
+    "static/js/main.8912221c.chunk.js"
+  ]
+}
