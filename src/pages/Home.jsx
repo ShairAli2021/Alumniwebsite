@@ -51,7 +51,7 @@ const Home = () => {
       <Route path="/pages" element={<Testimonials/>}/>
       <Route path="/login" element={<Login />}/>
       <Route path="/register" element={<RegistrationForm/>}/>
-      <Route path="/admin" element={<Features/>}/>
+      {/* <Route path="/admin" element={<Features/>}/> */}
    
       
       </Routes>

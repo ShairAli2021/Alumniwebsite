@@ -24,10 +24,7 @@ const navLinks = [
     display: "Pages",
     url: "/pages",
   },
-  {
-    display: "Blog",
-    url: "/blog",
-  },
+  
   {
     display:"All Project",
     url:"/all"
@@ -39,9 +36,6 @@ const navLinks = [
     display:"Login",
     url:"/login"
 
-  },{
-    display:"Admin",
-    url:"/admin"
   }
 
 ]
