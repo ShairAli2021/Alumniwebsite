@@ -6,15 +6,15 @@ import { Link } from "react-router-dom";
 
 
 const navLinks = [
-  {
-    display: "Home",
-    url: "/",
+  // {
+  //   display: "Home",
+  //   url: "/",
   
-  },
-  {
-    display: "About",
-    url: "/about",
-  },
+  // },
+  // {
+  //   display: "About",
+  //   url: "/about",
+  // },
 
   {
     display: "Courses",
